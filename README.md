@@ -4,4 +4,5 @@
 [![Build Status](https://travis-ci.org/radixxko/liqd-worker.svg?branch=master)](https://travis-ci.org/radixxko/liqd-worker)
 [![Coverage Status](https://coveralls.io/repos/github/radixxko/liqd-worker/badge.svg?branch=master)](https://coveralls.io/github/radixxko/liqd-worker?branch=master)
 [![NPM downloads](https://img.shields.io/npm/dm/liqd-worker.svg)](https://www.npmjs.com/package/liqd-worker)
+[![Known Vulnerabilities](https://snyk.io/test/github/radixxko/liqd-worker/badge.svg?targetFile=package.json)](https://snyk.io/test/github/radixxko/liqd-worker?targetFile=package.json)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
