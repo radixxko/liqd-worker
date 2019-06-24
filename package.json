@@ -1,7 +1,7 @@
 {
   "name": "liqd-worker",
   "description": "NodeJS Worker",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "radixxko",
   "license": "MIT",
   "main": "lib/worker.js",
@@ -23,7 +23,7 @@
     "liqd"
   ],
   "dependencies": {
-    "liqd-ipc": "^1.0.3"
+    "liqd-ipc": "^1.0.4"
   },
   "devDependencies": {
     "coveralls": "^3.0.4",
